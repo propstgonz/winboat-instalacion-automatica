@@ -110,24 +110,19 @@ Puedes definir variables antes de ejecutar el script, por ejemplo:
 ISO_URL="https://ejemplo.com/windows10.iso" sudo ./instalar-winboat.sh
 ```
 
-  Variable     Descripción
-  ------------ -------------------------------------------------------
-  `ISO_URL`    URL de la ISO de Windows 10 para descarga automática.
-  `ISO_FILE`   Ruta personalizada donde guardar la ISO.
+| Variable   | Descripción                                               |
+|------------|-----------------------------------------------------------|
+| `ISO_URL`  | URL de la ISO de Windows 10 para descarga automática.    |
+| `ISO_FILE` | Ruta personalizada donde guardar la ISO.                 |
 
 ------------------------------------------------------------------------
 
 ## 📂 Estructura de archivos
 
-  -----------------------------------------------------------------------
-  Carpeta                       Descripción
-  ----------------------------- -----------------------------------------
-  `~/Descargas` o `~/Downloads` Carpeta de descargas detectada
-                                automáticamente.
-
-  `~/Descargas/ISO`             Carpeta donde se guarda la ISO oficial de
-                                Windows 10.
-  -----------------------------------------------------------------------
+| Carpeta                       | Descripción                                                      |
+|-------------------------------|------------------------------------------------------------------|
+| `~/Descargas` o `~/Downloads` | Carpeta de descargas detectada automáticamente.                 |
+| `~/Descargas/ISO`             | Carpeta donde se guarda la ISO oficial de Windows 10.           |
 
 ------------------------------------------------------------------------
 
