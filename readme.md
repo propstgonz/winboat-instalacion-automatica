@@ -29,7 +29,6 @@ Antes de ejecutar el script, asegúrate de cumplir con lo siguiente:
 -   Está completamente en español, exceptuando el programa en sí.
 -   Al ejecutar el programa, ve siguiendo los pasos, y se recomienda
     utilizar la ISO descargada con el script (Es una versión en español).
-- 
 
 ------------------------------------------------------------------------
 
