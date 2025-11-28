@@ -101,7 +101,7 @@ fi
 echo "📂 Carpeta de descargas detectada: ${CARPETA_DESCARGAS}"
 
 # --- URLs y archivos ---
-WINBOAT_DEB_URL="https://github.com/TibixDev/winboat/releases/download/v0.8.7/winboat-0.8.7-amd64.deb"
+WINBOAT_DEB_URL="https://github.com/TibixDev/winboat/releases/download/v0.9.0/winboat-0.9.0-amd64.deb"
 WINBOAT_DEB_FILE="${CARPETA_DESCARGAS}/winboat-0.8.7-amd64.deb"
 
 # ISO oficial de Microsoft (Windows 10)
